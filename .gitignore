@@ -1,3 +1,4 @@
-!/*.bin
-!/*.exe
+/practical-1/P1Q1client
+/practical-1/P1Q1server
 .DS_Store
+.vscode
